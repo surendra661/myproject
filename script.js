@@ -9,3 +9,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 hello i am suri
+ok then fine
